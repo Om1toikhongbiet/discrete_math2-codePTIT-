@@ -1,0 +1,4 @@
+cho trước đồ thị g ve gồm n đỉnh biểu diễn dưới dạng ma trận kề và một đỉnh u , yêu cầu , tìm tất cả các chi trình hamilton của G bắt đầu tại U , dữ liệu vào từ tệp CT.INP
+dòng đầu chứa hai số nguyên dương n là số đỉnh và u là một đỉnh của G , 1 <= u <=n <= 100 , trong n dòng tiếp theo , mỗi dòng chứa n số 0 hoặc 1 mô tả ma trận kể của G .
+Ghi ra tệp CT.OUT
+nếu không tìm được chu trình hamilton thì gi ra giá trị 0 , trong trường hợp tìm được chu trình hamilton thì mỗi dòng ghi dãy các đỉnh của một chu trình hamilton .Dòng cuối cùng ghi giá trị t là số lượng các chu trình hamilton tìm được vd 
