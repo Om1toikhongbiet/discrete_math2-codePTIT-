@@ -1,0 +1,4 @@
+BÀI 4: Chu trình Hamilton qua một cạnh bắt buộc
+- Đồ thị vô hướng. Tìm chu trình Hamilton BẮT BUỘC chứa cạnh (u, v).
+- Chu trình phải bắt đầu bằng min(u, v), tiếp theo là max(u, v).
+- Nếu có nhiều chu trình, chọn chu trình có thứ tự từ điển nhỏ nhất.

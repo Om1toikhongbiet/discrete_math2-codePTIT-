@@ -1,0 +1,3 @@
+BÀI 3: Độ bền Hamilton khi loại bỏ đỉnh trên đồ thị có hướng
+Dùng Quy hoạch động trạng thái (Bitmask DP) để giải quyết triệt để vấn đề TLE 
+với độ phức tạp O(n^2 * 2^n), cực kỳ an toàn cho n <= 16.

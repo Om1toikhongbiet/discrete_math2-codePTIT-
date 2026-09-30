@@ -1,0 +1,4 @@
+BÀI 2: Chu trình Hamilton có tổng trọng số lớn nhất
+- Đồ thị vô hướng, n đỉnh (n <= 10).
+- Tìm chu trình Hamilton bắt đầu từ 1, có tổng trọng số lớn nhất.
+- Nếu cùng trọng số, lấy chu trình có thứ tự từ điển nhỏ nhất.
