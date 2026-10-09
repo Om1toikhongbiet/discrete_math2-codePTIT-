@@ -33,5 +33,5 @@ int main()
         adjlist[m].push_back(n);
 
     }
-    dfs 1
+    dfs(1) ; 
 }
